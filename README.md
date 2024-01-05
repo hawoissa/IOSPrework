@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide](https://ezgif.com/video-to-gif/ezgif-5-67f7ee075109.mov) .
+[Guide](https://imgur.com/a/RC8zp6k) .
 
 ## App Brainstorming (Step 4)
 
